@@ -35,6 +35,6 @@ I'm exploring new technologies and focusing on enhancing my skills in cybersecur
 
 Feel free to connect with me on LinkedIn or Twitter to discuss exciting opportunities and collaborate on interesting projects.
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- [LinkedIn](https://www.linkedin.com/in/varun-kashyap1207/)
 
 Let's innovate and build a better tomorrow together! 🚀
