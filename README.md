@@ -8,7 +8,8 @@ I'm a passionate technologist based in New Delhi, India. Welcome to my GitHub pr
   - M.Tech in Cybersecurity Systems and Networks from Amrita Vishwa Vidyapeetham, CGPA: 7.55
   - B.Tech in Computer Science Engineering from Krishna Engineering College, CGPA: 6.33
 
-- 💼 Experience: 
+- 💼 Experience:
+  - National Council of Educational Research and Training (06/2023 - Present)
   - Software Developer Intern at Optym (08/2022 – 12/2022)
   - Analyst at GlobalLogic Technologies (01/2021 – 08/2022)
 
@@ -33,7 +34,7 @@ I'm exploring new technologies and focusing on enhancing my skills in cybersecur
 
 ## 📫 Let's Connect!
 
-Feel free to connect with me on LinkedIn or Twitter to discuss exciting opportunities and collaborate on interesting projects.
+Feel free to connect with me on LinkedIn to discuss exciting opportunities and collaborate on interesting projects.
 
 - [LinkedIn](https://www.linkedin.com/in/varun-kashyap1207/)
 
