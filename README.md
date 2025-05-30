@@ -2,10 +2,6 @@
 
 > _"Works on mysterious bugs by day, fights the urge to refactor everything by night."_
 
-![Visitors](https://komarev.com/ghpvc/?username=varun-kashyap1207&style=flat-square&color=blue)  
-![Meme Approved](https://img.shields.io/badge/Meme--Friendly-✅-orange)  
-![Coffee Powered](https://img.shields.io/badge/powered%20by-coffee-795548)
-
 ---
 
 ## 🧠 Who Am I?
@@ -42,6 +38,13 @@
 ## 🕹 Fun Fact
 
 I thought I’d grow up to be a hacker in a dark room. Turns out I’m just a dev in a hoodie… in a slightly better-lit room.
+
+---
+
+
+![Visitors](https://komarev.com/ghpvc/?username=varun-kashyap1207&style=flat-square&color=blue)  
+![Meme Approved](https://img.shields.io/badge/Meme--Friendly-✅-orange)  
+![Coffee Powered](https://img.shields.io/badge/powered%20by-coffee-795548)
 
 ---
 
