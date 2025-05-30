@@ -1,42 +1,59 @@
-# Hello, I'm Varun Kashyap! 👋
+# 👾 Varun Kashyap | Probably Debugging Right Now...
 
-I'm a passionate technologist based in New Delhi, India. Welcome to my GitHub profile!
+> _"Works on mysterious bugs by day, fights the urge to refactor everything by night."_
 
-## 📚 About Me
+![Visitors](https://komarev.com/ghpvc/?username=varun-kashyap1207&style=flat-square&color=blue)  
+![Meme Approved](https://img.shields.io/badge/Meme--Friendly-✅-orange)  
+![Coffee Powered](https://img.shields.io/badge/powered%20by-coffee-795548)
 
-- 🎓 Education: 
-  - M.Tech in Cybersecurity Systems and Networks from Amrita Vishwa Vidyapeetham, CGPA: 7.55
-  - B.Tech in Computer Science Engineering from Krishna Engineering College, CGPA: 6.33
+---
 
-- 💼 Experience:
-  - Software Developer Engineer 2 at ICG Medical (03/2025 - Present)
-  - Computer Prorammer at National Council of Educational Research and Training (06/2023 - 03/2025)
-  - Software Developer Intern at Optym (08/2022 – 12/2022)
-  - Analyst at GlobalLogic Technologies (01/2021 – 08/2022)
+## 🧠 Who Am I?
 
-## 🚀 Skills
+- A **coder** who writes code that **sometimes compiles**.
+- Based in **New Delhi**, powered by **coffee and stack traces**.
+- Once yelled “_It’s working!_” loud enough to scare a dog.  
+- Still not sure if I’m a **Java developer who loves Python** or the other way around.
 
-- Python, Java, SQL, PostgreSQL, Typescript
-- Git, GitHub, NestJS, Hyperledger Fabric, Postman, pgAdmin, Linux
+## 💻 Tech I Know
 
-## 🔭 Projects
+- Can explain Git in a way that **makes it sound like magic**.
+- Wrote blockchain code once. Still not sure how it works.
+- I speak fluent **Python, Java, and sarcasm**.
+- Made friends with **PostgreSQL**. We talk **in joins** now.
 
-1. **Authenti-Kator:** A blockchain-based Counterfeit Detection project, developed during my M.Tech. It allows users to verify the authenticity of products in real-time using an Android app and blockchain technology.
-2. **Medical Information System:** A BTech project that collects data from different pathology labs, automatically updating test results and medical advice in the database.
+## 🧪 Side Quests (Projects)
 
-## 🏆 Achievements
+- **Authenti-Kator**: A blockchain thingy to stop fake products. Like Sherlock, but with code.
+- **Medical Info System**: Helps doctors stop losing test results. You're welcome, humanity.
 
-- Successfully delivered new features as part of a team at Optym.
-- Ensured high accuracy and quality of databases while working with Google at GlobalLogic.
+## 🛠 Superpowers
 
-## 🌱 Currently
+- Turning coffee into working apps ☕➡️💻  
+- Copy-pasting from Stack Overflow like a pro 🧙  
+- Debugging stuff I didn’t write 😤  
+- Googling error messages **with deadly precision**
 
-I'm exploring new technologies and focusing on enhancing my skills in cybersecurity and blockchain.
+## 📡 Currently
 
-## 📫 Let's Connect!
+- Exploring **cybersecurity** (yes, I *do* wear a hoodie sometimes).
+- Learning **why my code worked yesterday but not today**.
 
-Feel free to connect with me on LinkedIn to discuss exciting opportunities and collaborate on interesting projects.
+## 🕹 Fun Fact
 
-- [LinkedIn](https://www.linkedin.com/in/varun-kashyap1207/)
+I thought I’d grow up to be a hacker in a dark room. Turns out I’m just a dev in a hoodie… in a slightly better-lit room.
 
-Let's innovate and build a better tomorrow together! 🚀
+---
+
+## 📊 GitHub Stats
+
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varun-kashyap1207&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-kashyap1207&layout=compact&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=varun-kashyap1207&theme=gruvbox&no-frame=true&row=1)
+
+---
+
+Wanna chat, collab, or send memes?  
+📫 Find me here: [LinkedIn](https://www.linkedin.com/in/varun-kashyap1207/)
