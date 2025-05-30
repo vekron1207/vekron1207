@@ -9,7 +9,8 @@ I'm a passionate technologist based in New Delhi, India. Welcome to my GitHub pr
   - B.Tech in Computer Science Engineering from Krishna Engineering College, CGPA: 6.33
 
 - 💼 Experience:
-  - Computer Prorammer at National Council of Educational Research and Training (06/2023 - Present)
+  - Software Developer Engineer 2 at ICG Medical (03/2025 - Present)
+  - Computer Prorammer at National Council of Educational Research and Training (06/2023 - 03/2025)
   - Software Developer Intern at Optym (08/2022 – 12/2022)
   - Analyst at GlobalLogic Technologies (01/2021 – 08/2022)
 
