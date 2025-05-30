@@ -47,11 +47,11 @@ I thought I’d grow up to be a hacker in a dark room. Turns out I’m just a de
 
 ## 📊 GitHub Stats
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varun-kashyap1207&show_icons=true&theme=tokyonight)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vekron1207&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-kashyap1207&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vekron1207&layout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=varun-kashyap1207&theme=gruvbox&no-frame=true&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vekron1207&theme=gruvbox&no-frame=true&row=1)
 
 ---
 
