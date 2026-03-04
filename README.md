@@ -56,13 +56,9 @@ Currently:  Exploring cybersecurity (yes, I wear a hoodie sometimes)
 
 <div align="center">
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vekron1207&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vekron1207&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=vekron1207&theme=tokyonight&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vekron1207&theme=tokyonight&no-frame=true&row=1&column=6)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vekron1207&theme=tokyo-night&hide_border=true&area=true)](https://github.com/vekron1207)
 
 </div>
 
